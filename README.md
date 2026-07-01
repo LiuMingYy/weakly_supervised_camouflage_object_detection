@@ -6,7 +6,7 @@ This repository provides an implementation of **EBP-Net** (Extraction, Boundary-
 
 ## Framework Overview
 
-![CRNet](./model_zoo/CRNet/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations-main/Image/CRNet.jpg)
+![CRNet](./model_zoo/CRNet/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations-main/Image/strufig2-framework.png)
 
 ### Pipeline
 
