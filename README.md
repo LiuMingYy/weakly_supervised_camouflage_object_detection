@@ -47,7 +47,7 @@ pip install timm thop
 | **COD10K-V3** | [Official COD10K Page](https://dengpingfan.github.io/pages/COD.html) | 2.3 GB |
 | **CAMO-V1.0** | [Official CAMO Page](https://sites.google.com/view/ltnghia/research/camo?authuser=2) | 286 MB |
 | **S-COD Scribbles** | [CRNet GitHub](https://github.com/dddraxxx/Weakly-Supervised-Camouflaged-Object-Detection-with-Scribble-Annotations) | 13 MB |
-| **COD10K + CAMO + Scribbles (packed)** | [阿里云盘](https://www.alipan.com/t/gjXbKqXrErQ4vmiK37uN) | ~2.6 GB |
+| **COD10K + CAMO + Scribbles (packed)** | [阿里云盘](https://www.alipan.com/t/gjXbKqXrErQ4vmiK37uN) | ~11.6 GB |
 
 ### Pretrained Weights
 
